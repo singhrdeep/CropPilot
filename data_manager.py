@@ -1,7 +1,7 @@
 # data_manager.py
 """
 Data Manager Module for CropPilot
-Author: Ramandeep Torotane
+Author: Ramandeep Singh
 Date of Creation: April 14, 2025 
 Purpose: Manages the saving and loading of crop data and lists.
 Phase: 2 (Data Integration)
