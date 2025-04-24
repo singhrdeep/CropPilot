@@ -1,7 +1,7 @@
 # crop_manager.py
 """
 Crop Manager Module for CropPilot
-Author: Ramandeep Torotane
+Author: Ramandeep Singh
 Date of Creation: April 14, 2025
 Purpose: Functions for adding, removing, editing and displaying crops.
 Phase: 2 (Data Integration)
