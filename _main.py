@@ -1,7 +1,7 @@
 # _main.py
 """
 Main for CropPilot
-Author: Ramandeep Torotane
+Author: Ramandeep Singh
 Date of Creation: April 14, 2025 
 Purpose: CLI interface for the CropPilot program.
 Phase: 2 (Data Integration)
